@@ -10,7 +10,7 @@ adb shell dumpsys battery set status 2
 
 :: change battery from 5% to 100%
 for /L %%d in (5 1 100) do (
-echo Dang sac %%d%%
+echo Charging %%d%%
 adb shell dumpsys battery set level %%d
 ping 127.0.0.1 -n 1 -w 500 > NUL
 )
