@@ -1,5 +1,7 @@
 @echo off
 
+color 2
+
 :: set charge status is charging
 adb shell dumpsys battery set status 1
 adb shell dumpsys battery set status 2
@@ -17,3 +19,5 @@ adb shell dumpsys battery set status 3
 echo ------------------------
 echo ------Finished----------
 echo ------------------------
+
+pause
