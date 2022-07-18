@@ -20,7 +20,7 @@ cd Hack-Phone-Battery
 
 ## Using
 
-There are 3 files you need to care about:
+There are 4 files you may care about:
 
 - `info.bat`: Show current actual battery information
 - `start.bat`: Activate virtual battery charging start from 5% to 100%
