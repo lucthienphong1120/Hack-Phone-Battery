@@ -1,5 +1,7 @@
 @echo off
 
+cls
+
 color 2
 
 :: set charge status is charging
