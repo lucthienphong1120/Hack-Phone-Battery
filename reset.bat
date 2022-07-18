@@ -2,4 +2,8 @@
 
 adb shell dumpsys battery reset
 
-echo All back! Thank you
+echo All back...
+
+echo Thank you!
+
+color 07
