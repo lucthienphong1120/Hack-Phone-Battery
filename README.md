@@ -20,7 +20,7 @@ cd Hack-Phone-Battery
 
 ## Using
 
-There are 4 commands you may care about:
+There are 6 preset commands you may care about:
 
 - `info.bat`: Show current actual battery information
 - `charge100.bat`: Activate virtual battery charging start from 5% to 100%
