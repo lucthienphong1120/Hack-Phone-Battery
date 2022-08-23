@@ -23,6 +23,8 @@ cd Hack-Phone-Battery
 There are 4 commands you may care about:
 
 - `info.bat`: Show current actual battery information
-- `hack.bat`: Activate virtual battery charging start from 5% to 100%
+- `charge100.bat`: Activate virtual battery charging start from 5% to 100%
+- `charge1000.bat`: Activate virtual battery charging start from 5% to 1009%
+- `charge9999.bat`: Activate virtual battery charging start from 5% to 9999%
 - `baterry.bat NUMBER`: Set virtual battery equal to NUMBER
 - `reset.bat`: Resets the battery and status to normal state
